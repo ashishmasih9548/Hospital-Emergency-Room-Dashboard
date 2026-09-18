@@ -3,8 +3,11 @@
 ## Project Overview
 
 This project features an interactive Power BI dashboard designed to analyze and visualize Emergency Room (ER) performance, patient wait times, admission rates, and hospital operations.
+
 • Cleaned 9,000+ patient records in Power Query, fixing mixed date-time and Patient ID formats.
+
 • Built dynamic KPIs tracking average wait times, admission/discharge ratios, and peak traffic hours. 
+
 • Analyzed patient data to assist management in optimizing staff and resource allocation.
 
 ## Features
