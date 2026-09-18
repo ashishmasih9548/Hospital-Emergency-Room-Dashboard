@@ -42,9 +42,9 @@ Nearly half of the patients (4612) were admitted, while the rest (4604) were tre
 * 📁 **Data Source:** Microsoft Excel / CSV Patient Records Dataset  
 
 ## Project Files
-Hospital ER_Data.csv
+Hospital ER_Data.csv (Data Source File)
 
-Hosital Emergency Room Dashboard.pbix
+Hosital Emergency Room Dashboard.pbix (Power BI Project File)
 
 ## Summary:
 The dataset reveals high patient volumes, moderate satisfaction levels, and common referrals to General Practice and Orthopedics. Mondays and late night early mornings hours are particularly busy. The patients demographics show a diverse age and racial composition, with nearly equal numbers of admitted and non admitted patients. These insights can help optimize resources allocate and improve patients care in the emergency room.
