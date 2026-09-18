@@ -45,5 +45,4 @@ Hosital Emergency Room Dashboard.pbix
 ## Summary:
 The dataset reveals high patient volumes, moderate satisfaction levels, and common referrals to General Practice and Orthopedics. Mondays and late night early mornings hours are particularly busy. The patients demographics show a diverse age and racial composition, with nearly equal numbers of admitted and non admitted patients. These insights can help optimize resources allocate and improve patients care in the emergency room.
 
-# Data Analyst # Data Aanlysis # Data Cleaning # Data Modeling # Data Visulization # ETL # DAX # Mesures # KPIs # Microsift Excel # CSV File # Power BI 
-# Power Query 
+##Data Analyst ##Data Aanlysis ##Data Cleaning ##Data Modeling ##Data Visulization ##ETL ##DAX ##Mesures ##KPIs ##Microsift Excel ##CSV File ##Power BI ##Power Query 
